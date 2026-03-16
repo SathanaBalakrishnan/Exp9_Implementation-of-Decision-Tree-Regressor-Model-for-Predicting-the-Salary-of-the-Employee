@@ -47,6 +47,15 @@ dt.predict([[5,6]])
 
 ## Output:
 
+![Output Screenshot](exp9op1.png)
+
+![Output Screenshot](exp9op2.png)
+
+![Output Screenshot](exp9op3.png)
+
+![Output Screenshot](exp9op4.png)
+
+![Output Screenshot](exp9op5.png)
 
 
 
